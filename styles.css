@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    background-color: #0300a8;
+    color: white;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+.description {
+    color: #008299;
+}
+
+.ingredients {
+    color: #0300a8
+}
+
+.steps {
+    color: #85008a;
+}
+
